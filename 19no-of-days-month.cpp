@@ -1,4 +1,4 @@
-//
+//Develop a program that takes a month (as an integer from 1 to 12) and a year as input, then prints the number of days in that month, considering leap years.
 
 #include <iostream>
 using namespace std;
